@@ -76,7 +76,6 @@ nav > a {
     text-decoration: none;
     font-weight: bold;
     transition-duration: .5s;
-    display: inline-block;
 }
 
 nav > a:hover {
